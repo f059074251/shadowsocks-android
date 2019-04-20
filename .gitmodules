@@ -20,9 +20,6 @@
 [submodule "core/src/main/jni/mbedtls"]
 	path = core/src/main/jni/mbedtls
 	url = https://github.com/ARMmbed/mbedtls
-[submodule "core/src/main/jni/pcre"]
-	path = core/src/main/jni/pcre
-	url = https://android.googlesource.com/platform/external/pcre
 [submodule "core/src/main/jni/libsodium"]
 	path = core/src/main/jni/libsodium
 	url = https://github.com/jedisct1/libsodium.git
