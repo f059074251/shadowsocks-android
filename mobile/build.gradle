@@ -60,7 +60,7 @@ dependencies {
     implementation 'com.mikepenz:crossfader:1.5.1'
     implementation 'com.mikepenz:fastadapter:3.0.4'
     implementation 'com.mikepenz:iconics-core:3.0.0'
-    implementation 'com.mikepenz:materialdrawer:6.0.2'
+    implementation 'com.mikepenz:materialdrawer:6.0.3'
     implementation 'com.mikepenz:materialize:1.1.2'
     implementation 'com.squareup.okhttp3:okhttp:3.9.1'
     implementation "com.takisoft.fix:preference-v7-simplemenu:$takisoftFixVersion"
